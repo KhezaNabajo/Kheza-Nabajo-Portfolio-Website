@@ -202,7 +202,7 @@ function Contact() {
       <div id="contact-info" className={infoVisible ? "contact-info visible" : "contact-info"}>
         <h2>Let's get in touch.</h2>
         <p>Got a question? <a href="mailto:kezeyyyzz29@gmail.com" className="email-link">kezeyyyzz29@gmail.com</a></p>
-        <p>For more info, here's my <a href="/assets/KhezaNabajo-CV.pdf" download="KhezaNabajo_CV.pdf">resume</a></p>
+        <p>For more info, here's my <a href="/assets/KhezaNabajo-CV.pdf" download="KhezaNabajo_CV.pdf">CV</a></p>
         <SocialIcons />
       </div>
 
