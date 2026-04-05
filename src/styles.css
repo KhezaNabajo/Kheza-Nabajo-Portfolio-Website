@@ -4,7 +4,7 @@ html { scroll-behavior:smooth; }
 body { font-family:Inter, sans-serif; background:#fefefe; color:#6d6b6b; line-height:1.6; font-size:20px; overflow-x:hidden; }
 :root { --accent:#CD99DB; --accent-light:#CD99DB; --a:#CD99DB; }
 
-nav { display:flex; justify-content:center; align-items:center; padding:20px 5%; position:sticky; top:0; background:#FEFEFE; z-index:100; border-bottom:2px solid #CD99DB; }
+nav { display:flex; justify-content:center; align-items:center; padding:15px 5%; position:sticky; top:0; background:#FEFEFE; z-index:100; border-bottom:2px solid #CD99DB; }
 .hamburger { display:none; flex-direction:column; gap:5px; cursor:pointer; background:none; border:none; padding:5px; }
 .hamburger span { display:block; width:25px; height:3px; background:#6b6b6b; transition:.3s; }
 .nav-links { display:flex; gap:40px; list-style:none; }
