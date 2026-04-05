@@ -1,5 +1,5 @@
 import { useState, useEffect } from "react";
-
+// useReveal for fadein animations, less repeatation
 export function useReveal(id) {
   const [visible, setVisible] = useState(false);
 
