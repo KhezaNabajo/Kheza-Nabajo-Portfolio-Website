@@ -13,7 +13,7 @@ nav { display:flex; justify-content:center; align-items:center; padding:20px 5%;
 .nav-links a::after { content:''; position:absolute; bottom:-5px; left:0; width:0; height:2px; background:var(--a); transition:.3s; }
 .nav-links a:hover::after { width:100%; }
 
-.hero { display:flex; align-items:center; justify-content: space-between; padding:100px 5%; max-width:1800px; margin:0 auto; gap:100px; height:1100px; }
+.hero { display:flex; align-items:center; justify-content: space-between; padding:100px 5%; max-width:1600px; margin:0 auto; gap:100px; height:1100px; }
 .hero-content { flex:1; opacity:0; transform:translateY(30px); animation:fadeInUp .8s ease forwards; }
 .hero-greeting { font-size:18px; color:#6b6b6b; margin-bottom:16px; }
 .hero h1 { font-size:72px; margin-bottom:20px; line-height:1.1; font-weight:700; color:#010101; }
