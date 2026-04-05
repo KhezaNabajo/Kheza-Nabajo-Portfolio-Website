@@ -77,7 +77,7 @@ function Projects() {
       </div>
       <div className="project-links">
           <a href="https://www.figma.com/design/lfV0kNVvsJJ9C24FBukigv/Kheza-Nabajo---Portfolio?node-id=0-1&p=f&t=tZrkwy6G09pl2nXl-0">VIEW ON FIGMA ↗</a>
-            <a href="#">SEE ON GITHUB</a>
+            <a href="https://github.com/KhezaNabajo/Kheza-Nabajo-Portfolio-Website">SEE ON GITHUB</a>
       </div>
       </div>
       </div>
