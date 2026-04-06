@@ -34,7 +34,7 @@ function Hero() {
       <div className="hero-content">
         <p className="hero-greeting">Hi, I am</p>
         <h1>Kheza Nabajo</h1>
-        <p className="hero-title">Information Technology Student | Visual Designer &amp; Network Design</p>
+        <h2 className="hero-title">Information Technology Student | Visual Designer &amp; Network Design</h2>
         <p>I am dedicated about creativity, user experience, and color theory. Currently pursuing a Diploma in Information Technology at Western Institute of Technology.</p>
         <a href="#contact" className="btn">CONTACT ME ↗</a>
         <SocialIcons />
