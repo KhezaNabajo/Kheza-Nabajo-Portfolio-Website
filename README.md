@@ -1,16 +1,87 @@
-# React + Vite
+# Kheza Nabajo — Portfolio Website
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the source code for my personal portfolio website. I am **Kheza Nabajo**, an Information Technology student at Western Institute of Technology with a passion for visual design, accessible user experiences, and network design.
 
-Currently, two official plugins are available:
+This portfolio brings together my design work, academic projects, technical capabilities, and contact information in one interactive website.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## About the Portfolio
 
-## React Compiler
+The website showcases my work as a visual designer and frontend developer, including:
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- My background and interests in Information Technology
+- Featured academic and UI/UX design projects
+- Figma design work and prototypes
+- Skills in visual design, prototyping, wireframing, and networking
+- A downloadable CV
+- Contact options through email and social media
 
-## Expanding the ESLint configuration
+## Featured Projects
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+### Portfolio Website
+
+A personal portfolio designed and developed to present my work, experience, and creative approach. I focused on creating a clean, warm, and personal interface with animated section reveals and responsive navigation.
+
+- **Role:** Designer & Frontend Developer
+- **Year:** 2026
+- [View the project on Figma](https://www.figma.com/design/lfV0kNVvsJJ9C24FBukigv/Kheza-Nabajo---Portfolio?node-id=0-1&p=f&t=tZrkwy6G09pl2nXl-0)
+
+### UI Challenge 1
+
+A minimal e-commerce product card featuring a seasonal fragrance concept, with a warm visual style and cart functionality.
+
+- **Role:** Visual Designer
+- **Year:** 2025
+- [View the project on Figma](https://www.figma.com/design/gfghcv6ND4p5PwCTGH6iXM/KhezaNabajo_UIChallenge1?m=auto&t=YaaNtSkk2q62p1VG-6)
+
+### UI Challenge 2
+
+A custom audio player interface that combines bold typography, dynamic album visuals, and intuitive controls.
+
+- **Role:** Visual Designer
+- **Year:** 2025
+- [View the project on Figma](https://www.figma.com/design/4P3FF0tcYmR5Cm54n4vLti/KhezaNabajo_UIChallenge2?m=auto&t=YaaNtSkk2q62p1VG-6)
+
+## Skills
+
+- Figma
+- UI/UX Design
+- Prototyping
+- Wireframing
+- Subnetting
+- TCP/IP
+- VLAN
+- Cisco networking
+
+## Built With
+
+- React
+- Vite
+- JavaScript
+- CSS
+- GSAP
+- Font Awesome
+
+## Run Locally
+
+Clone the repository and install the dependencies:
+
+```bash
+git clone https://github.com/KhezaNabajo/Kheza-Nabajo-Portfolio-Website.git
+cd Kheza-Nabajo-Portfolio-Website
+npm install
+npm run dev
+```
+
+To create a production build:
+
+```bash
+npm run build
+```
+
+## Connect With Me
+
+- [GitHub](https://github.com/KhezaNabajo)
+- [LinkedIn](https://www.linkedin.com/in/kheza-nabajo-514a45372/)
+- [Email](mailto:kezeyyyzz29@gmail.com)
+
+© 2026 Kheza Nabajo
